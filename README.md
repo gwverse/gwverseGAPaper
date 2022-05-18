@@ -4,7 +4,7 @@ Alexis Comber<sup>1*</sup>, Martin Callghan<sup>2</sup>, Paul Harris<sup>3</sup>
 
 <sup>1</sup> School of Geography, University of Leeds, Leeds, UK.\
 <sup>2</sup> School of Computing, University of Leeds, Leeds, UK.\
-<sup>3</sup> Sustainable Agriculture Sciences North Wyke, Rothamsted Research, Okehampton, UK.`
+<sup>3</sup> Sustainable Agriculture Sciences North Wyke, Rothamsted Research, Okehampton, UK.\
 <sup>4</sup> School of Remote Sensing and Information Engineering, Wuhan University, Wuhan, China.\
 <sup>5</sup> National Centre for Geocomputation, Maynooth University, Maynooth, Ireland.\
 
