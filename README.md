@@ -23,7 +23,8 @@ To run the analysis in this paper you should download the the R script `GA_code_
 
 If you have any problems with data / code / versions etc please contact Lex Comber at the email above.
 
-`> sessionInfo()
+```{r}
+> sessionInfo()
 R version 4.2.0 (2022-04-22)
 Platform: x86_64-apple-darwin17.0 (64-bit)
 Running under: macOS Big Sur 11.4
@@ -78,4 +79,5 @@ loaded via a namespace (and not attached):
 [79] gtable_0.3.0       assertthat_0.2.1   cachem_1.0.6      
 [82] xfun_0.30          broom_0.8.0        e1071_1.7-9       
 [85] class_7.3-20       viridisLite_0.4.0  memoise_2.0.1     
-[88] units_0.8-0        ellipsis_0.3.2    `
+[88] units_0.8-0        ellipsis_0.3.2    
+```
